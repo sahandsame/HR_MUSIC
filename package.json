@@ -1,0 +1,13 @@
+{
+  "name": "ReVa_MUSIC_BOT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sahandsame/HR_MUSIC.git",
+  "author": "ReVaDev",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord-player": "^1.4.0",
+    "discord.js": "^12.2.0"
+  }
+}
